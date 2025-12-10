@@ -32,10 +32,7 @@ Este modelo baseado na classe `report` já vem configurado com:
 
 ### Opção 1: Overleaf (Online)
 
-1.  Crie um **Novo Projeto** em branco no Overleaf.
-2.  Faça o upload do arquivo `script.tex` deste repositório.
-3.  Crie uma pasta chamada `imagens` no seu projeto e faça upload das suas figuras nela.
-4.  Compile o projeto (Recomenda-se usar o compilador `pdfLaTeX`).
+1.  Faça um cópia do projeto e começe a editar: https://www.overleaf.com/read/zcqpmszdhmwb
 
 ### Opção 2: Editor Local (VS Code / TeXShop)
 
